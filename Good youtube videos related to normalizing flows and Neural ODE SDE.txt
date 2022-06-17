@@ -1,0 +1,31 @@
+Normalizing Flows:
+
+https://www.youtube.com/watch?v=MX1RJELWONc&list=PLoN80JTl6xzUadDpwdOcciufa8lSgMXLp&index=4&t=338s
+
+https://www.youtube.com/watch?v=7TOvhz93G9o&list=PLoN80JTl6xzUadDpwdOcciufa8lSgMXLp&index=3&t=140s
+
+https://www.youtube.com/watch?v=u3vVyFVU_lI&list=PLoN80JTl6xzUadDpwdOcciufa8lSgMXLp&index=7&t=839s
+
+https://www.youtube.com/watch?v=-hcxTS5AXW0&list=PLoN80JTl6xzUadDpwdOcciufa8lSgMXLp&index=13&t=2463s
+
+https://sites.google.com/view/berkeley-cs294-158-sp20/home
+
+https://www.youtube.com/watch?v=JBb5sSC0JoY
+
+
+Neural ODE / SDE:
+
+https://www.youtube.com/watch?v=uPd0B0WhH5w&list=PLoN80JTl6xzV0wsV_MDnAS98-e3dakV02&index=2&t=6s (really good for the basic concept)
+
+https://www.youtube.com/watch?v=93wr5vhI0F4&list=PLoN80JTl6xzV0wsV_MDnAS98-e3dakV02&index=5
+
+https://www.youtube.com/watch?v=Llk8bt-C48Y&list=PLoN80JTl6xzV0wsV_MDnAS98-e3dakV02&index=22&t=27s
+
+https://www.youtube.com/watch?v=EAsXp8NaCR8&list=PLoN80JTl6xzV0wsV_MDnAS98-e3dakV02&index=11&t=4s
+
+
+Https://www.youtube.com/c/quantpie
+
+
+
+
