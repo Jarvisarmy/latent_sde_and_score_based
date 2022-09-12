@@ -5,7 +5,8 @@ from functools import partial
 from jax import jit, random
 from jax.lax import scan
 import jax.numpy as np
-from jax.ops import index, index_update
+#from jax.ops import index_update
+from jax.numpy import index_exp
 
 
 def scaled_brownian_motion(original_bm, t0, t1):
@@ -70,7 +71,8 @@ def virtual_brownian_tree(ot0, ox0, ot1, ox1, t, depth, orng, rep):
 def sample_with_rep(rng, shape, rep):
     n = shape[0]
     z = random.normal(rng, shape)
-    z = index_update(z, index[n - rep:], z[n - rep * 2:n - rep])
+    #z = index_update(z, index[n - rep:], z[n - rep * 2:n - rep])
+    z.at[index_exp[n-rep:]].set(z[n-rep*2:n-rep])
     return z
 
 
